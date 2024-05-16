@@ -1,0 +1,58 @@
+---
+title: "DataScienceHW1"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: inline
+---
+
+# Test
+
+## What do you think being a data scientist is about?
+
+I think it's all about analyzing data effectively and efficiently.
+
+## 
+
+## What differences/similarities do you see between data scientists and statisticians?
+
+Some similarities that I see are the analytic tools used (such as RSS, chi squared, etc.) between data scientists and statisticians. I also think data scientists are more versatile as they will require skills that software developers need, as well as statisticians.
+
+## 
+
+## How do you view yourself in relation to these two areas?
+
+I am neither a data scientist or a statistician, I am an engineer by profession. However, I would say I am close to a statistician than a data scientist, as programming typically is NOT my forte.
+
+## 
+
+## 
+
+# R code below
+
+```{r}
+  y <- density(iris$Sepal.Length)
+```
+
+## The following R code below determines the class, type, and structure of the object "y".
+
+### This chunk of code determines the class of the object.
+
+```{r}
+#| echo: FALSE
+  class(y)
+```
+
+### This chunk of code determines the type of the object.
+
+```{r}
+#| echo: FALSE
+  typeof(y)
+```
+
+### This chunk of code determines the internal structure of the object.
+
+```{r}
+#| echo: FALSE
+  str(y)
+```
