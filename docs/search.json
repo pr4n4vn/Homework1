@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "datasciencehw1.html",
+    "href": "datasciencehw1.html",
+    "title": "DataScienceHW1",
+    "section": "",
+    "text": "I think it’s all about analyzing data effectively and efficiently.\n\n\n\n\n\n\nSome similarities that I see are the analytic tools used (such as RSS, chi squared, etc.) between data scientists and statisticians. I also think data scientists are more versatile as they will require skills that software developers need, as well as statisticians.\n\n\n\n\n\n\nI am neither a data scientist or a statistician, I am an engineer by profession. However, I would say I am close to a statistician than a data scientist, as programming typically is NOT my forte."
+  },
+  {
+    "objectID": "datasciencehw1.html#what-do-you-think-being-a-data-scientist-is-about",
+    "href": "datasciencehw1.html#what-do-you-think-being-a-data-scientist-is-about",
+    "title": "DataScienceHW1",
+    "section": "",
+    "text": "I think it’s all about analyzing data effectively and efficiently."
+  },
+  {
+    "objectID": "datasciencehw1.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "href": "datasciencehw1.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "title": "DataScienceHW1",
+    "section": "",
+    "text": "Some similarities that I see are the analytic tools used (such as RSS, chi squared, etc.) between data scientists and statisticians. I also think data scientists are more versatile as they will require skills that software developers need, as well as statisticians."
+  },
+  {
+    "objectID": "datasciencehw1.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "href": "datasciencehw1.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "title": "DataScienceHW1",
+    "section": "",
+    "text": "I am neither a data scientist or a statistician, I am an engineer by profession. However, I would say I am close to a statistician than a data scientist, as programming typically is NOT my forte."
+  },
+  {
+    "objectID": "datasciencehw1.html#the-following-r-code-below-determines-the-class-type-and-structure-of-the-object-y.",
+    "href": "datasciencehw1.html#the-following-r-code-below-determines-the-class-type-and-structure-of-the-object-y.",
+    "title": "DataScienceHW1",
+    "section": "The following R code below determines the class, type, and structure of the object “y”.",
+    "text": "The following R code below determines the class, type, and structure of the object “y”.\n\nThis chunk of code determines the class of the object.\n\n\n[1] \"density\"\n\n\n\n\nThis chunk of code determines the type of the object.\n\n\n[1] \"list\"\n\n\n\n\nThis chunk of code determines the internal structure of the object.\n\n\nList of 8\n $ x         : num [1:512] 3.48 3.49 3.5 3.51 3.52 ...\n $ y         : num [1:512] 0.00023 0.000259 0.000293 0.000329 0.00037 ...\n $ bw        : num 0.274\n $ n         : int 150\n $ old.coords: logi FALSE\n $ call      : language density.default(x = iris$Sepal.Length)\n $ data.name : chr \"iris$Sepal.Length\"\n $ has.na    : logi FALSE\n - attr(*, \"class\")= chr \"density\""
+  }
+]
